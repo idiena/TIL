@@ -1,7 +1,7 @@
 # TODAY I LEARNED
 
-* Idea stolen from: https://github.com/jbranchaud/til
-
+* Idea stolen from: https://github.com/silefort/TIL and  https://github.com/jbranchaud/til
+ 
 To generate this readme:
 
     python -B generate.py
