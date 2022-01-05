@@ -6,9 +6,9 @@
 
 * [Tools](Toolbox/Tools.md)
 
-# VIM
+# Vim
 
-*[Copy and paste a line](Vim/Copy-and-past-a-line)
+* [Copy and paste a line](Vim/Copy-and-past-a-line)
 
 
 1 tips available 
