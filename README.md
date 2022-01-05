@@ -1,14 +1,19 @@
-# TIL
+# TODAY I LEARNED
 
-* I am testing
+* Idea stolen from: https://github.com/jbranchaud/til
+
+To generate this readme:
+
+    python -B generate.py
 
 # Toolbox
 
-* [Tools](Toolbox/Tools.md)
+* [ Tools ](Toolbox/Tools.md)
 
 # Vim
 
-* [Copy move delete and paste a line](Vim/Copy-move-and-past-a-line.md)
-* [Help for a command](Vim/Command-help.md)
+* [ Command help ](Vim/Command-help.md)
+* [ Copy move and past a line ](Vim/Copy-move-and-past-a-line.md)
 
-3 tips available 
+
+3 Tips available
