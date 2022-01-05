@@ -8,7 +8,7 @@
 
 # Vim
 
-* [Copy and paste a line](Vim/Copy-and-past-a-line)
+* [Copy and paste a line](Vim/Copy-move-and-past-a-line.md)
 * [Help for a command](Vim/Command-help.md)
 
 3 tips available 
