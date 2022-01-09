@@ -1,10 +1,10 @@
-# Copying and moving text Yank, Delete, PUT
+# Configure Aws credentials
 
 ## Checking the aws cli version
-    :aws --version
+    aws --version
 
 ## Configure credentials settings
-    :aws configure // Aws acces key Id, Aws secret key, region, ouptut(optional) 
+    aws configure // Aws acces key Id, Aws secret key, region, ouptut(optional) 
 
 ## List users
-    :aws iam list-users
+    aws iam list-users
